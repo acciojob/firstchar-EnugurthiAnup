@@ -2,7 +2,7 @@ function firstChar(text) {
   // your code here
 	text = text.trim()
 	
-   return text[0]
+   return text.charAt(0)
 	
 }
 
